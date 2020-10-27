@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12ccb5c-8656-4158-a250-9a680880c69e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/_4A_Watermelon/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_4A_Watermelon/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_71A_WayTooLongWords/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1B_SpreadSheet.Test" />
       <module name="CodeForces" />
@@ -62,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_71A_WayTooLongWords.Test" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_71A_WayTooLongWords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1A_TheatreSquare.Test" />
       <module name="CodeForces" />
@@ -77,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
@@ -93,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603641674555</updated>
-      <workItem from="1603641675836" duration="5065000" />
+      <workItem from="1603641675836" duration="6308000" />
     </task>
     <servers />
   </component>
@@ -105,22 +120,22 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="320" y="105" key="#Project_Structure/0.23.1440.834@0.23.1440.834" timestamp="1603641684124" />
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1603769832585">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1603772931440">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1603769832585" />
-    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1603769832585">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1603772931440" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1603772931439">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1603769832585" />
-    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1603769832584">
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1603772931439" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1603772931438">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1603769832584" />
-    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1603769832585">
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1603772931438" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1603772931440">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1603769832585" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1603772931440" />
     <state x="437" y="81" key="SettingsEditor" timestamp="1603642291631">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
