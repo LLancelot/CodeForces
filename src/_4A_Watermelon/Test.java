@@ -1,4 +1,4 @@
-//package _4A_Watermelon;
+package _4A_Watermelon;
 
 import java.util.Scanner;
 
