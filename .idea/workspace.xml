@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12ccb5c-8656-4158-a250-9a680880c69e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_71A_WayTooLongWords/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_1413D_Shurikens/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_231A_Team/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/_71A_WayTooLongWords/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +21,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1jNPevqBryx8aHCLMTnNRVg4LTw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,9 +39,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
+  <component name="RunManager" selected="Application.Test (5)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1B_SpreadSheet.Test" />
       <module name="CodeForces" />
@@ -76,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_1A_TheatreSquare.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_231A_Team.Test" />
       <module name="CodeForces" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_1A_TheatreSquare.*" />
+          <option name="PATTERN" value="_231A_Team.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1413D_Shurikens.Test" />
+      <module name="CodeForces" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_1413D_Shurikens.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,10 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -109,6 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603641674555</updated>
       <workItem from="1603641675836" duration="6308000" />
+      <workItem from="1603839643566" duration="2328000" />
     </task>
     <servers />
   </component>
@@ -120,25 +140,41 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="320" y="105" key="#Project_Structure/0.23.1440.834@0.23.1440.834" timestamp="1603641684124" />
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1603772931440">
+    <state x="337" y="46" key="CommitChangelistDialog2" timestamp="1603844298382">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1603772931440" />
-    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1603772931439">
+    <state x="337" y="46" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1603844298382" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom" timestamp="1603844247433">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1603772931439" />
-    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1603772931438">
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1603844247433" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center" timestamp="1603844247431">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1603772931438" />
-    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1603772931440">
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1603844247431" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left" timestamp="1603844247430">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1603772931440" />
-    <state x="437" y="81" key="SettingsEditor" timestamp="1603642291631">
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1603844247430" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right" timestamp="1603844247432">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
-    <state x="437" y="81" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1603642291631" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1603844247432" />
+    <state x="437" y="81" key="SettingsEditor" timestamp="1603840175296">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="437" y="81" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1603840175296" />
+    <state x="847" y="489" key="com.intellij.ide.util.TipDialog" timestamp="1603839644246">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="847" y="489" key="com.intellij.ide.util.TipDialog/0.23.1440.834@0.23.1440.834" timestamp="1603839644246" />
+    <state x="525" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603844278672">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="525" y="366" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.834@0.23.1440.834" timestamp="1603844278672" />
+    <state x="42" y="339" width="1398" height="570" key="dock-window-1" timestamp="1603840453750">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="42" y="339" width="1398" height="570" key="dock-window-1/0.23.1440.834@0.23.1440.834" timestamp="1603840453750" />
   </component>
 </project>
